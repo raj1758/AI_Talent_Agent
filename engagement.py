@@ -2,9 +2,9 @@ import random
 
 def simulate_conversation(candidate_name):
     responses = [
-        ("Yes, I am very interested in this role", random.randint(85, 100)),
-        ("Sounds interesting, open to discuss", random.randint(60, 80)),
-        ("Not looking for a change right now", random.randint(20, 50))
+        ("Candidate is actively exploring new opportunities and aligns well with this role.", random.randint(85, 100)),
+        ("Candidate is open to relevant opportunities and would like more details about the role.", random.randint(60, 80)),
+        ("Candidate is not actively looking for a change but may consider suitable future opportunities.", random.randint(20, 50))
     ]
 
     response, score = random.choice(responses)
