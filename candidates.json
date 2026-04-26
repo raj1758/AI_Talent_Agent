@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rahul",
+    "skills": ["python", "sql", "django"],
+    "experience": 3
+  },
+  {
+    "name": "Anjali",
+    "skills": ["react", "javascript", "html"],
+    "experience": 2
+  },
+  {
+    "name": "Kiran",
+    "skills": ["python", "sql", "react"],
+    "experience": 4
+  },
+  {
+    "name": "Sneha",
+    "skills": ["python", "flask", "sql"],
+    "experience": 5
+  }
+]
